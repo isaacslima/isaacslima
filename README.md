@@ -31,8 +31,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **dti Digital**.
-- 🌱 Learning more about and studying: **React, Headless cms and Next.js**.
-- 💙 Interests: games 👾, Music  and Table Games
+- 💙 Interests: Games 👾, Music  and Table Games
 ### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>

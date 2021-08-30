@@ -2,16 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaacslima)
 
-<!--
-<p align="center">
-  <a href="#">
-    <img align="center" width="280" src="signature.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="510" src="banner.gif" />
-  </a>
-</p>
--->
 <p align="center">
   <a href="https://github.com/isaacslima/github-readme-stats">
     <img

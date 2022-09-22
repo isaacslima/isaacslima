@@ -20,7 +20,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **dti Digital**.
+- 👨‍💻 I'm a software engineer.
 - 💙 Interests: Games 👾, Music  and Table Games
 ### Languages and Tools:
 
